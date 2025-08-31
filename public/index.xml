@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>郑亭亭 / Zheng Tingting</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 郑亭亭 / Zheng Tingting</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 31 Aug 2025 19:46:04 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 31 Aug 2025 19:46:04 +0800</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cv</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Sun, 31 Aug 2025 19:46:03 +0800</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My Project</title>
+      <link>http://localhost:1313/projects/my-project/</link>
+      <pubDate>Sun, 31 Aug 2025 19:46:03 +0800</pubDate>
+      <guid>http://localhost:1313/projects/my-project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sun, 31 Aug 2025 19:46:02 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

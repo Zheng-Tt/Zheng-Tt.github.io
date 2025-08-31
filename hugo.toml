@@ -1,0 +1,77 @@
+baseURL = "https://Zheng-Tt.github.io/"
+title = "郑亭亭 / Zheng Tingting"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh"
+[pagination]
+  pagerSize = 10
+enableRobotsTXT = true
+theme = "PaperMod"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = true
+  ShowToc = true
+
+  # 首页展示（头像+简介+导航按钮）
+  [params.profileMode]
+    enabled = true
+    title = "郑亭亭"
+    subtitle = "电子科技大学 计算数学硕士 (2023–2026) | 研究方向：数值计算 · 算法分析 · 数据建模"
+    imageUrl = "static/images/avatar.jpg"   # 你要放一张头像在 static/images/avatar.jpg
+    imageWidth = 160
+    imageHeight = 160
+    buttons = [
+      { name = "简历", url = "/cv" },
+      { name = "科研与实习", url = "/experience/" },
+      { name = "项目", url = "/projects/" },
+      { name = "论文与竞赛", url = "/publications/" }
+    ]
+
+  # 社交 & 学术主页
+  [params.social]
+    github = "Zheng-Tt"
+    # 如果有LinkedIn，可以写类似 linkedin = "in/your-linkedin-id"
+    # 如果以后有Google Scholar，可以写 googlescholar = "你的Scholar ID"
+
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "教育经历"
+    url = "/education/"
+    weight = 2
+
+  [[menu.main]]
+    name = "科研与实习"
+    url = "/experience/"
+    weight = 3
+
+  [[menu.main]]
+    name = "项目"
+    url = "/projects/"
+    weight = 4
+
+  [[menu.main]]
+    name = "论文与竞赛"
+    url = "/publications/"
+    weight = 5
+
+  [[menu.main]]
+    name = "简历"
+    url = "/cv"
+    weight = 6
+
+  [[menu.main]]
+    name = "联系"
+    url = "/contact/"
+    weight = 7
