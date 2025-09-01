@@ -1,47 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>郑亭亭 / Zheng Tingting</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on 郑亭亭 / Zheng Tingting</description>
+    <title>首页 on 郑亭亭 / Zheng Tingting</title>
+    <link>https://zheng-tt.github.io/</link>
+    <description>Recent content in 首页 on 郑亭亭 / Zheng Tingting</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 01 Sep 2025 11:36:41 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello</title>
-      <link>http://localhost:1313/posts/hello/</link>
-      <pubDate>Mon, 01 Sep 2025 11:36:41 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;draft-false&#34;&gt;title: &amp;ldquo;Hello World&amp;rdquo;&#xA;date: 2025-09-01&#xA;draft: false&lt;/h2&gt;&#xA;&lt;p&gt;这是我的第一篇 Hugo 博客，成功上线啦！&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Sun, 31 Aug 2025 19:46:04 +0800</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cv</title>
-      <link>http://localhost:1313/cv/</link>
-      <pubDate>Sun, 31 Aug 2025 19:46:03 +0800</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>My Project</title>
-      <link>http://localhost:1313/projects/my-project/</link>
-      <pubDate>Sun, 31 Aug 2025 19:46:03 +0800</pubDate>
-      <guid>http://localhost:1313/projects/my-project/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Sun, 31 Aug 2025 19:46:02 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://zheng-tt.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
