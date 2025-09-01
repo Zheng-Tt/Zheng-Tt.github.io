@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>教育经历 on 郑亭亭 / Zheng Tingting</title>
-    <link>https://zheng-tt.github.io/education/</link>
+    <link>http://localhost:1313/education/</link>
     <description>Recent content in 教育经历 on 郑亭亭 / Zheng Tingting</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="https://zheng-tt.github.io/education/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/education/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
