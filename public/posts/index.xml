@@ -6,7 +6,21 @@
     <description>Recent content in Posts on 郑亭亭 / Zheng Tingting</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 11:36:41 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/posts/hello/</link>
+      <pubDate>Mon, 01 Sep 2025 11:36:41 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;draft-false&#34;&gt;title: &amp;ldquo;Hello World&amp;rdquo;&#xA;date: 2025-09-01&#xA;draft: false&lt;/h2&gt;&#xA;&lt;p&gt;这是我的第一篇 Hugo 博客，成功上线啦！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Sun, 31 Aug 2025 19:46:02 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
